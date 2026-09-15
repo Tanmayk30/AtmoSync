@@ -1,4 +1,4 @@
-﻿# AtmoSync — Microclimate Data Analytics Platform
+﻿# AtmoSync - Microclimate Data Analytics Platform
 
 AtmoSync is a collaborative data analytics project focused on analyzing weather and microclimate data to identify temperature patterns, environmental variations, relationships between weather parameters, and location-based differences.
 
