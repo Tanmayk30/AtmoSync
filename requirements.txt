@@ -1,7 +1,5 @@
 ﻿#python 3.12
 pandas
-openpyxl // dependecy for excel
-
 numpy
 matplotlib
 seaborn
